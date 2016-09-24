@@ -1,0 +1,1 @@
+{"wire_vertices":{"b0":{"annotation":{"boundary":true,"coord":[0.5,0.0]}}},"node_vertices":{"v0":{"data":{"type":"X","value":""},"annotation":{"coord":[-0.5,0.0]}}},"undir_edges":{"e0":{"src":"b0","tgt":"v0"}}}

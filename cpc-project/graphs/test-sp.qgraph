@@ -1,0 +1,1 @@
+{"node_vertices":{"v0":{"data":{"type":"X","value":""},"annotation":{"coord":[-1.5,1.75]}},"v1":{"data":{"type":"X","value":""},"annotation":{"coord":[1.0,1.0]}},"v2":{"data":{"type":"X","value":""},"annotation":{"coord":[-0.75,-1.25]}}},"undir_edges":{"e0":{"src":"v0","tgt":"v1"},"e1":{"src":"v1","tgt":"v2"}}}
